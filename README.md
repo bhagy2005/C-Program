@@ -1,7 +1,6 @@
-constants: This can be done with the const keyword.
-           constants are fixed values that cannot be modified by the program during its execution.
+constants: This can be done with the const keyword. constants are fixed values that cannot be modified by the program during its execution.
            
-Syntax: const float PI = 3.14;
+         Syntax: const float PI = 3.14;
 
 Types of constants: Constants are categorized into two types
 
