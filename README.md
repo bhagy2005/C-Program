@@ -11,6 +11,7 @@ Types of constants: Constants are categorized into two types
                     2. Secondary constants: They are more complex than primary constants.
                     Array Constants
                     Pointer Constants
+                    
 Rules: Constant values cannot be changed during execution.
        Character constants use single quotes (' ').
        String constants use double quotes (" ").
