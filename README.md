@@ -14,7 +14,9 @@ Types of constants: Constants are categorized into two types
                     Array Constants
                     Pointer Constants
                     
-Rules: Constant values cannot be changed during execution.
+Rules:
+      
+       Constant values cannot be changed during execution.
        Character constants use single quotes (' ').
        String constants use double quotes (" ").
        Integer constants should not contain spaces or commas.
